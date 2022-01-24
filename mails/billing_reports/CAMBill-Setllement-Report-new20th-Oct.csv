@@ -1,0 +1,13 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Amount Paid","Amount to be settled","Amt Credited to the Ac","Payment Status","Date Settled/ paid","Pay Fm"
+BC-0115,"Shweta Tangri",13432.00,2020-10-18,13432.00,13414.30,47751.90,"Payment Completed",2020-10-20,"Pay U"
+CC-0020SF,"Naveen Parthi (CC-0020SF)",8717.00,2020-10-18,8717.00,8699.30,47751.90,"Payment Completed",2020-10-20,"Pay U"
+ES-0138,"Rashmi Thakur (ES-0138)",25656.00,2020-10-18,25656.00,25638.30,47751.90,"Payment Completed",2020-10-20,"Pay U"
+,,,,47805,47751.90,,,,
+,,,,,,,,,
+BC-0115,"Shweta Tangri",13432.00,2020-10-18,13432.00,17.7,53.1,"Payment Completed",2020-10-21,Shweta
+CC-0020SF,"Naveen Parthi (CC-0020SF)",8717.00,2020-10-18,8717.00,17.7,53.1,"Payment Completed",2020-10-21,Shweta
+ES-0138,"Rashmi Thakur (ES-0138)",25656.00,2020-10-18,25656.00,17.7,53.1,"Payment Completed",2020-10-21,Shweta
+,,,,,,,,,
+,,,,,53.1,,,,
+,,,,,,,,,
+,,,,47805,47805,,,,

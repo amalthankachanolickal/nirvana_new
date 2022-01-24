@@ -1,0 +1,53 @@
+<div class="blog-ls-box blog-hcard-list" data-rm-blog="<?php echo $wo['blog']['id'];?>">
+  <div class="view-blog" id="<?php echo $wo['blog']['id']; ?>">
+        <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 article-thumbnail">
+          <img src="<?php echo $wo['blog']['thumbnail']; ?>" alt="<?php echo $wo['blog']['title']; ?>">
+        </div>
+        <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12 no-padding-left">
+          
+          <a href="<?php echo $wo['blog']['url']; ?>">
+            <h4>
+              <?php echo Wo_ShortText($wo['blog']['title']); ?>
+            </h4>
+          </a>
+          <p class="article-description">
+            <?php  echo Wo_ShortText($wo['blog']['description'],100);?> 
+          </p>
+          
+          <div class="clear"></div>
+          <div class="article-meta-description">
+            <span class="<?php echo Wo_RightToLeft('pull-left');?>"> 
+              <small>
+                <span><?php echo $wo['lang']['by']; ?></span>
+                <a href="<?php echo $wo['blog']['author']['url']; ?>"> 
+                   <?php echo $wo['blog']['author']['name']; ?>  
+                </a>
+              </small>
+              <small>
+                <i class="fa fa-clock-o  fa-fw"" aria-hidden="true"></i> 
+                <?php echo date("F n,Y",$wo['blog']['posted']); ?>
+              </small>
+            </span>
+            <?php if ($wo['blog']['is_post_admin']):?>
+              <div class="dropdown dropup <?php echo Wo_RightToLeft('pull-right');?> ">
+                 <i class="dropdown-toggle blog-dd-menu fa fa-angle-up" data-toggle="dropdown">
+                 </i>
+                <ul class="dropdown-menu post-privacy-menu post-options <?php echo Wo_RightToLeft('pull-right');?>" role="menu">
+                  <li class="pointer">
+                    <a class="delete-blog" id="<?php echo $wo['blog']['id'];?>">
+                      <i class="fa fa-trash-o fa-fw" aria-hidden="true"></i> <?php echo $wo['lang']['delete']; ?>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="<?php echo Wo_SeoLink('index.php?link1=edit-blog&id=' . $wo['blog']['id']) ?>" id="<?php echo $wo['blog']['id'];?>">
+                      <i class="fa fa-pencil-square-o fa-fw" aria-hidden="true"></i> <?php echo $wo['lang']['edit']; ?>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            <?php endif;?>
+            <div class="clear"></div>
+          </div>    
+        </div>
+  </div>
+</div>

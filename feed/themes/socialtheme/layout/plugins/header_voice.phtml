@@ -1,0 +1,18 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+<script>
+var url_profile = site_url+"/<?php if($wo['loggedin'] == true) { echo $wo['user']['username']; } ?>";
+if(annyang) {
+	var commands = {'profile': my_profile, 'home': my_home, 'messages': my_messages, 'blog': my_blog, 'albums': my_albums, 'pages': my_pages, 'groups': my_groups, 'my friends': my_friends, 'games': my_games }
+	var my_profile = function() { location.replace(url_profile) }
+	var my_home = function() { alert("We Going to Home"); location.replace(site_url); }
+	var my_messages = function() { location.replace(site_url+"/messages"); }
+	var my_blog = function() { location.replace(site_url+"/my-blogs"); }
+	var my_albums = function() { location.replace(site_url+"/albums"); }
+	var my_pages = function() { location.replace(site_url+"/pages"); }
+	var my_groups = function() { location.replace(site_url+"/groups"); }
+	var my_friends = function() { location.replace(url_profile+"/followers"); }
+	var my_games = function() { location.replace(site_url+"/games"); }		
+}
+annyang.addCommands(commands);
+annyang.start();
+</script>

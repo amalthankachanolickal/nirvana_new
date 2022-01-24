@@ -1,0 +1,13 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Amount Paid","Amount to be settled","Amt Credited to the Ac","Payment Status","Date Settled/ paid","Pay Fm"
+CC-0113,"Sameer Bakhshi (CC-0113)",10764.00,2020-10-14,10764.00,10764.00,48845.72,"Payment Completed",2020-10-16,"Pay U"
+DW-0027,"Alok Gupta (DW-0027)",17451.00,2020-10-14,17451.00,17433.30,48845.72,"Payment Completed",2020-10-16,"Pay U"
+DW-0028,"Arvind Krishna (DW-0028)",20666.00,2020-10-14,20666.00,20648.30,48845.72,"Payment Completed",2020-10-16,"Pay U"
+DW-0027,"Alok Gupta (DW-0027)",17451.00,2020-10-14,,0.12,,"Payment Completed",2020-10-16,PayU
+,,,,48881,48845.72,,,,
+,,,,,,,,,
+DW-0027,"Alok Gupta (DW-0027)",17451.00,2020-10-14,17451.00,17.58,35.28,"Payment Completed",2020-10-17,Shweta
+DW-0028,"Arvind Krishna (DW-0028)",20666.00,2020-10-14,20666.00,17.7,35.28,"Payment Completed",2020-10-17,Shweta
+,,,,,,,,,
+,,,,,35.28,,,,
+,,,,,,,,,
+,,,,48881,48881,,,,

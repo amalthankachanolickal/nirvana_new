@@ -1,0 +1,28 @@
+"Bill Number","Bill Month","Member Name","Block No","House Number",Floor,"Bill Amount","Amount Paid","Date Paid","Payment Gateway Status",Mode
+191130Nov000005,1911Nov,"Rohit Puri",AG,9,1,190,190.00,"2020-01-03 21:35:52",success,"Online- CC"
+191231Dec000005,191231Dec,"Rohit Puri",AG,9,1,190,190.00,"2020-01-03 21:35:52",success,"Online- CC"
+191130Nov000013,1911Nov,"Parminder Pal Walia",AG,20,1,370,,,,
+191231Dec000013,191231Dec,"Parminder Pal Walia",AG,20,1,400,,,,
+191130Nov0000080,1911Nov,"Vineet Jain",AG,80,1,190,,,,
+191231Dec0000080,191231Dec,"Vineet Jain",AG,80,1,400,,,,
+191130Nov000076,1911Nov,"Aruna Kashinath",AG,122,1,420,,,,
+191130Nov000077,1911Nov,"Navdeep Manaktala",AG,125,1,350,,,,
+191231Dec000077,191231Dec,"Navdeep Manaktala",AG,125,1,350,,,,
+191130Nov000082,1911Nov,"Monica Aggarwal",AG,130,1,400,400.00,"2020-01-09 19:25:59",success,"Online- NB"
+191231Dec000082,191231Dec,"Monica Aggarwal",AG,130,1,400,400.00,"2020-01-09 19:26:38",success,"Online- NB"
+191130Nov000151,1911Nov,"Sanjay Goel",BC,3,1,170,,,,
+191231Dec000151,191231Dec,"Sanjay Goel",BC,3,1,170,,,,
+191231Dec000152,191231Dec,"Arun Chandra",BC,43,1,200,,,,
+191130Nov000152,1911Nov,"Arun Chandra",BC,43,1,400,,,,
+191130Nov000083,1911Nov,"Sanjay Menon",BC,83,1,380,380.00,"2019-12-08 09:31:28",success,"Online - CC"
+191231Dec000083,191231Dec,"Sanjay Menon",BC,83,1,380,,,,
+191130Nov000115,1911Nov,"Shweta Tangri",BC,115,1,20,20.00,"2020-01-02 14:35:03",success,"Online- DC"
+191231Dec000115,191231Dec,"Shweta Tangri",BC,115,1,190,,,,
+191231Dec000115-1,191231Dec,"Shweta Tangri",BC,115,1,19,19.00,"2020-01-02 14:28:53",success,"Online- DC"
+191231Dec000115-2,191231Dec,"Shweta Tangri",BC,115,1,20,20.00,"2020-01-02 14:55:25",success,"Online- DC"
+191231Dec000126,191231Dec,"Gautam Srivastava",BC,126,1,380,,,,
+191130Nov000150,1911Nov,"Devashish Ghosh",BC,145,1,670,,,,
+191231Dec000150,191231Dec,"Devashish Ghosh",BC,145,1,338,338.00,"2020-01-06 13:16:43",success,"Online- DC"
+191231Dec000147,191231Dec,"Nancy Gupta",BC,147,1,210,210.00,"2020-01-06 11:17:25",success,"Online- DC"
+191130Nov000149,1911Nov,"Rajan Roy",BC,149,1,500,500.00,"2019-12-08 10:32:37",success,"Online - CC"
+191231Dec000149,191231Dec,"Rajan Roy",BC,149,1,250,250.00,"2020-01-02 12:23:49",success,"Online - CC"

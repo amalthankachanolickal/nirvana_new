@@ -1,0 +1,15 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Amount Paid","Amount to be settled","Amt Credited to the Ac","Payment Status","Date Settled/ paid","Pay Fm"
+DW-0202,"Mita Brahma",11737,2020-07-13,11737,11719.3,54071.2,"Payment Completed",2020-07-15,"Pay U"
+BC-0088,"Ajay Wadhwa",12028,2020-07-13,12028,12010.3,54071.2,"Payment Completed",2020-07-15,"Pay U"
+AG-0123,"R Shyam Sundar ",17841,2020-07-13,17841,17823.3,54071.2,"Payment Completed",2020-07-15,"Pay U"
+BC-0122,"Karuna Gupta ",12536,2020-07-13,12536,12518.3,54071.2,"Payment Completed",2020-07-15,"Pay U"
+,,,,54142,54071.2,,,,
+,,,,,,,,,
+DW-0202,"Mita Brahma",11737,2020-07-13,11737,17.7,70.8,"Payment Completed",2020-07-16,Shweta
+BC-0088,"Ajay Wadhwa",12028,2020-07-13,12028,17.7,70.8,"Payment Completed",2020-07-16,Shweta
+AG-0123,"R Shyam Sundar ",17841,2020-07-13,17841,17.7,70.8,"Payment Completed",2020-07-16,Shweta
+BC-0122,"Karuna Gupta ",12536,2020-07-13,12536,17.7,70.8,"Payment Completed",2020-07-16,Shweta
+,,,,,,,,,
+,,,,,70.8,,,,
+,,,,,,,,,
+,,,,54142,54142,,,,

@@ -1,0 +1,4 @@
+bill_num,unit_num,bill_start_date,amount_reversed,date_reversed,amount_received,date_received,mode,pay_ref,amount_received_bank,date_received_bank,source,payment_mode,error/status
+NRWAQ308812021,ES-0168FF,2020-09-29,0,0000-00-00,10499,"2020-10-01 00:00:00","Bank Receipt","NEFT-SBIN120275687983-MR  UMESH  JAIN-/ATTN//INB-0 0000020010331781-SBIN0011444",10499,"2020-10-01 00:00:00","NRWA Office",NEFT,"No error, Record updated"
+
+"Total Rows:",1,"Error Rows:",0,"Total Uploaded Amount",10499

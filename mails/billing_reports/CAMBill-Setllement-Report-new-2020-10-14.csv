@@ -1,0 +1,20 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Amount Paid","Amount to be settled","Amt Credited to the Ac","Payment Status","Date Settled/ paid","Pay Fm"
+AG-0031,"Nandita Luthra",12284.00,2020-10-12,12284.00,12284.00,100363.81,"Payment Completed",2020-10-14,"Pay U"
+BC-0139,"Eeran Chawla",10383.00,2020-10-12,10383.00,10365.30,100363.81,"Payment Completed",2020-10-14,"Pay U"
+CC-0132,"Ashish Agarwal (CC-0132)",15786.00,2020-10-12,15786.00,15786.00,100363.81,"Payment Completed",2020-10-14,"Pay U"
+DW-0319,"Prakash Gurbuxani, Manish Gurb",12199.00,2020-10-12,12199.00,12181.30,100363.81,"Payment Completed",2020-10-14,"Pay U"
+ES-0117,"Amit Modi (ES-0117)",8611.00,2020-10-12,8611.00,8593.30,100363.81,"Payment Completed",2020-10-14,"Pay U"
+ES-0360,"Anuj Mathur (ES-0360)",23105.00,2020-10-12,23105.00,23087.30,100363.81,"Payment Completed",2020-10-14,"Pay U"
+ES-0367,"Saguna Vaid (ES-0367)",18084.00,2020-10-12,18084.00,18066.30,100363.81,"Payment Completed",2020-10-14,"Pay U"
+BC-0139,"Eeran Chawla",10383.00,2020-10-12,,0.31,,"Payment Completed",2020-10-14,PayU
+,,,,100452,100363.81,,,,
+,,,,,,,,,
+BC-0139,"Eeran Chawla",10383.00,2020-10-12,10383.00,17.39,35.09,"Payment Completed",2020-10-15,Shweta
+DW-0319,"Prakash Gurbuxani, Manish Gurb",12199.00,2020-10-12,12199.00,17.7,35.09,"Payment Completed",2020-10-15,Shweta
+ES-0117,"Amit Modi (ES-0117)",8611.00,2020-10-12,8611.00,17.7,35.09,"Payment Completed",2020-10-15,Shweta
+ES-0360,"Anuj Mathur (ES-0360)",23105.00,2020-10-12,23105.00,17.7,35.09,"Payment Completed",2020-10-15,Shweta
+ES-0367,"Saguna Vaid (ES-0367)",18084.00,2020-10-12,18084.00,17.7,35.09,"Payment Completed",2020-10-15,Shweta
+,,,,,,,,,
+,,,,,35.09,,,,
+,,,,,,,,,
+,,,,100452,100452,,,,

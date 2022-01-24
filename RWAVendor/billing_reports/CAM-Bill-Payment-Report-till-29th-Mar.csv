@@ -1,0 +1,45 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Payment Reference #","Amount Paid","TDR Charged by us","Total Amount paid by the User","Mode of Payment used","Bank Name","TDR Charged by the PGWA","Account to which payment is settled","Amount to be settled","Total Amount Settled","Payment Status","Date Settled/ paid","Paid Short by Pay U"
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-24,b96465fe,20,0,20,DC,HDFCPG,0.1,"Nirvana Residents Welfare Association",19.9,19.9,"Payment Completed",2019-12-26,-0.1
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-30,2b9e2d99be0daded1628,11,0.02,11.02,DC,HDFCPG,0.06,"Nirvana Residents Welfare Association",10.96,,"Payment Completed",2020-01-01,-0.04
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-30,130e44c0b9d4de20eb8b,20,0.42,20.42,CC,HDFCPG,0.37,"Nirvana Residents Welfare Association",20.05,,"Payment Completed",2020-01-01,0.05
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-30,43819db711c915dd4318,15,0.32,15.32,CC,HDFCPG,0.28,"Nirvana Residents Welfare Association",15.04,,"Payment Completed",2020-01-01,0.04
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-30,d72a147a2eaf0e00a69c,11,0.02,11.02,DC,HDFCPG,0.06,"Nirvana Residents Welfare Association",10.96,57.01,"Payment Completed",2020-01-01,-0.04
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-30,63e8fd472d3e220e6c8b,12,0.02,12.02,DC,HdfcCYBER,0.06,"Nirvana Residents Welfare Association",11.96,,"Payment Completed",2020-01-02,-0.04
+BC-0115,"Shweta Tangri (BC-0115)",11465,2019-12-31,8784d22443f16984bf3c,11,0.02,11.02,DC,HDFCPG,0.06,"Nirvana Residents Welfare Association",10.96,22.92,"Payment Completed",2020-01-02,-0.04
+ES-0255,"Rajinder Nath Gulati (ES-0255)",11481.00,2020-01-01,3b66428a300f3cb78646,11481.00,135.48,11616.5,DC,HdfcCYBER,137.07,"Nirvana Residents Welfare Association",11479.41,11479.41,"Payment Completed",2020-01-03,-1.59
+DW-0197,"Parag Kar",11999.00,2020-01-03,f90108a9e17d70249503,11999.00,0,11999,NB,DSHB,17.7,"Nirvana Residents Welfare Association",11981.3,,"Payment Completed",2020-01-06,-17.7
+CC-0019,"Gaurav Sinha (CC-0019)",17842.00,2020-01-02,7175103060ecae6f0dff,17842.00,378.96,18221,CC,HdfcCYBER,387.02,"Nirvana Residents Welfare Association",17833.94,29815.24,"Payment Completed",2020-01-06,-8.06
+BC-0125,"Renuka Srivastava (BC-0125)",11481,2020-01-10,439c54295af632123b7d,11481,0,11481,NB,ICIB,17.7,"Nirvana Residents Welfare Association",11463.3,,"Payment Completed",2020-01-13,-17.7
+AG-0130,"Monica Aggarwal",17223.00,2020-01-09,07a54349321140790acd,17223.00,0,17223,NB,HDFB,17.7,"Nirvana Residents Welfare Association",17205.3,,"Payment Completed",2020-01-13,-17.7
+DW-0113,"Madhukar Shyam (DC-0113)",17223.00,2020-01-11,ab2f0b00907fa95de2df,17223.00,0,17223,NB,HDFB,17.7,"Nirvana Residents Welfare Association",17205.3,,"Payment Completed",2020-01-13,-17.7
+DW-0240,"Sunil Kapoor",9013.00,2020-01-11,cd1ea0f60011221f2171,9013.00,191.44,9204.44,CC,HdfcCYBER,195.5,"Nirvana Residents Welfare Association",9008.94,,"Payment Completed",2020-01-13,-4.06
+ES-0050,"Archana Verma (ES-0050)",14745.00,2020-01-09,538011061ef08170a935,14745.00,0,14745,NB,HDFB,17.7,"Nirvana Residents Welfare Association",14727.3,,"Payment Completed",2020-01-13,-17.7
+CC-0132,"Ashish Agarwal (CC-0132)",13778.00,2020-01-09,edb50d49f9501be29e20,13778.00,292.64,14070.6,CC,HdfcCYBER,298.86,"Nirvana Residents Welfare Association",13771.78,83381.92,"Payment Completed",2020-01-13,-6.22
+DW-0033,"Vikas Arora (DC-0033)",17422.00,2020-01-12,b6b8e2ccf6cdf3a60e9c,17422.00,0,17422,NB,IDFCNB,17.7,"Nirvana Residents Welfare Association",17404.3,,"Payment Completed",2020-01-14,-17.7
+CC-0133,"Megha Aggarwal",124529.00,2020-01-12,42171bc04396fbd270d2,10794,0,10794,NB,HDFB,17.7,"Nirvana Residents Welfare Association",10776.3,28180.6,"Payment Completed",2020-01-14,-17.7
+BC-0025,"Ashwini Bakshi (BC-0025)",24111,2020-01-12,b8bd8b6cb0c4b056fab5,24111,0,24111,NB,ICIB,17.7,"Nirvana Residents Welfare Association",24093.3,,"Payment Completed",2020-01-15,-17.7
+DW-0046,"Shailendra Pje Kumar (DC-0046)",13776.00,2020-01-13,4a81c800b8f4be971eeb,13776.00,0,13776,NB,HDFB,17.7,"Nirvana Residents Welfare Association",13758.3,37851.6,"Payment Completed",2020-01-15,-17.7
+BC-0088,"Ajay Wadhwa (BC-0088)",11481,2020-01-13,6dcdd3f3ca211cad85bf,11481,249.28,11730.3,CC,HdfcCYBER,249.16,"Nirvana Residents Welfare Association",11481.12,,"Payment Completed",2020-01-16,0.12
+ES-0036,"Renu Jain (ES-0036)",24111.00,2020-01-14,4da5ba15621fa25d828e,24111.00,0,24111,NB,HDFB,17.7,"Nirvana Residents Welfare Association",24093.3,35574.42,"Payment Completed",2020-01-16,-17.7
+DW-0029,"Sanjay Rawal (DC-0029)",17249.00,2020-01-15,acd818823d21a79af5a2,17249.00,0,17249,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",17231.3,,"Payment Completed",2020-01-17,-17.7
+DW-0162,"Rohin Kumar Dhawan",359192.00,2020-01-15,63ff23cb2d10e050dbff,20000,0,20000,NB,ICICI,17.7,"Nirvana Residents Welfare Association",19982.3,,"Payment Completed",2020-01-17,-17.7
+DW-0247,"Vivek Mahendru",9813.00,2020-01-14,63754d03794bc1132c89,9813.00,0,9813,NB,AXISNB,17.7,"Nirvana Residents Welfare Association",9795.3,,"Payment Completed",2020-01-17,-17.7
+ES-0051,"Sapna Narang (ES-0051)",15196.00,2020-01-14,276c60817734d5426aec,15196.00,329.94,15525.9,CC,HdfcCYBER,329.77,"Nirvana Residents Welfare Association",15196.17,,"Payment Completed",2020-01-17,0.17
+ES-0317,"Ashish Taneja (ES-0317)",17678.00,2020-01-15,83d2d68c447b6a6482a7,17678.00,383.82,18061.8,CC,HDFCPG,383.63,"Nirvana Residents Welfare Association",17678.19,,"Payment Completed",2020-01-17,0.19
+ES-0334,"Geeta Nagar",18285.00,2020-01-15,09161faabad734f2a39f,18285.00,0,18285,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",18267.3,98150.56,"Payment Completed",2020-01-17,-17.7
+DW-0193,"Mandeep Singh Sachdeva (DC-019",17223.00,2020-01-16,b6701190d24e676afb0a,17223.00,373.95,17596.9,CC,HdfcCYBER,373.76,"Nirvana Residents Welfare Association",17223.19,,"Payment Completed",2020-01-20,0.19
+ES-0112,"Sudesh Kumar Grover",36576.00,2020-01-16,d94a7a763b9831d5dde2,18879,409.9,19288.9,CC,HDFCPG,409.7,"Nirvana Residents Welfare Association",18879.2,,"Payment Completed",2020-01-20,0.2
+CC-0129,"Rohit Khanna (CC-0129)",34.00,2020-01-17,3c17aeb49767b19c9c64,34.00,0,34,NB,ICICI,17.7,"Nirvana Residents Welfare Association",16.3,36118.69,"Payment Completed",2020-01-20,-17.7
+AG-0032,"Sunil Chandna (AG-0032)",12381.00,2020-01-20,511888657657193878be,12381.00,0,12381,NB,KOTAK_NB,17.7,"Nirvana Residents Welfare Association",12363.3,12363.3,"Payment Completed",2020-01-22,-17.7
+BC-0031,"Deepak Luthra (BC-0031)",16148,2020-01-24,48689e2f26ecdb0c92c8,15976,0,15976,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",15958.3,15958.3,"Payment Completed",2020-01-27,-17.7
+ES-0167SF,"Birendra Kumar Mohapatra",47318.00,2020-02-08,815e27c2927004d031c6,47318.00,0,47318,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",47300.3,47300.3,"Payment Completed",2020-02-10,-17.7
+DW-0162,"Rohin Kumar Dhawan",359192.00,2020-03-02,40867a2f1ad5bab2972b,133522,0,133522,NB,ICICI,17.7,"Nirvana Residents Welfare Association",133504.3,133504.3,"Payment Completed",2020-03-04,-17.7
+CC-0115,"Gaurav Jaitly (CC-0115)",17134.00,2020-03-28,ee24f757d081f2ce1858,17134.00,0,17134,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",17116.3,,"Settlement In Progress",,-17.7
+DW-0073,"S Varadarajan (DC-0073)",27109.00,2020-03-27,509cb4b3dd90c602bda4,27109.00,0,27109,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",27091.3,,"Settlement In Progress",,-17.7
+CC-0179,"Simpsy Teckchandani (CC-0179)",8970.00,2020-03-28,c51043328746f0e5a1a2,8970.00,0,8970,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",8952.3,,"Settlement In Progress",,-17.7
+CC-0157SF,"Satinder Kumar Malhotra",11362.00,2020-03-28,6d6d85108b0c3f2ec0f6,11362.00,0,11362,NB,ICICI,17.7,"Nirvana Residents Welfare Association",11344.3,,"Settlement In Progress",,-17.7
+DW-0093,"Monika Sharma (DC-0093)",17352.00,2020-03-28,7bc8956cf3c8cc4e03aa,17352.00,0,17352,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",17334.3,,"Settlement In Progress",,-17.7
+CC-0158GF,"Abhishek Sewani (CC-0158GF)",9749.00,2020-03-28,fd60a8b9d2e07c35eaf4,9749.00,0,9749,NB,ICICI,17.7,"Nirvana Residents Welfare Association",9731.3,,"Settlement In Progress",,-17.7
+DW-0206,"Shammi Chakraborty (DC-0206)",8955.00,2020-03-28,8822054e58be94a90f85,8955.00,0,8955,NB,ICICI,17.7,"Nirvana Residents Welfare Association",8937.3,,"Settlement In Progress",,-17.7
+DW-0033,"Vikas Arora (DC-0033)",18145.00,2020-03-28,8817e68113e2d67fbc34,18145.00,0,18145,NB,IDFCNB,17.7,"Nirvana Residents Welfare Association",18127.3,,"Settlement In Progress",,-17.7
+ES-0051,"Sapna Narang (ES-0051)",15606.00,2020-03-28,68b9dd64d2e3ce7335a7,15606.00,338.84,15944.8,CC,HDFCPG,338.67,"Nirvana Residents Welfare Association",15606.17,,"Settlement In Progress",,0.17

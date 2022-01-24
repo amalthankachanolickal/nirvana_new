@@ -1,0 +1,22 @@
+<div class="modal fade" id="delete-post" role="dialog">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h4 class="modal-title"><i class="fa fa-exclamation-circle"></i> <?php echo $wo['lang']['delete_post']; ?></h4>
+         </div>
+         <div class="modal-body">
+            <p><?php echo $wo['lang']['confirm_delete_post']; ?></p>
+         </div>
+         <div class="modal-footer">
+            <?php /* plugin points */
+			if(!empty($wo['plugin_list']['plugin_actived']) && ( in_array('Share', $wo['plugin_list']['plugin_actived']) || in_array('Question', $wo['plugin_list']['plugin_actived']))  ){ 
+			?>
+			<button id="delete-all-post" type="button" onclick="Delete_Post(<?php echo $wo['story']['id'];?>);" class="btn  btn-main"><i class="fa fa-trash-o progress-icon" data-icon="trash-o"></i> <?php echo $wo['lang']['delete']; ?></button>
+			<?php } else { ?>
+			<button id="delete-all-post" type="button" onclick="Wo_DeletePost(<?php echo $wo['story']['id'];?>);" class="btn  btn-main"><i class="fa fa-trash-o progress-icon" data-icon="trash-o"></i> <?php echo $wo['lang']['delete']; ?></button>
+			<?php } ?>
+            <button  type="button" class="btn btn-default" data-dismiss="modal"><?php echo $wo['lang']['cancel']; ?></button>
+         </div>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,3 @@
+[08-Apr-2021 10:06:02 UTC] PHP Warning:  Use of undefined constant E_All - assumed 'E_All' (this will throw an Error in a future version of PHP) in /home2/innovzzy/public_html/nirvanacountry.co.in/RWAVendor/controller/bills_upload_new_controller.php on line 2
+[08-Sep-2021 04:26:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/allrwas1/public_html/nirvana.allrwas.com/RWAVendor/controller/FunctionCall.php on line 4729
+[08-Sep-2021 04:29:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/allrwas1/public_html/nirvana.allrwas.com/RWAVendor/controller/FunctionCall.php on line 4729

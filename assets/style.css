@@ -1,0 +1,172 @@
+.rating {
+  display: inline-block;
+  position: relative;
+  height: 50px;
+  line-height: 50px;
+  font-size: 50px;
+}
+
+.rating label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  cursor: pointer;
+}
+
+.rating label:last-child {
+  position: static;
+}
+
+.rating label:nth-child(1) {
+  z-index: 5;
+}
+
+.rating label:nth-child(2) {
+  z-index: 4;
+}
+
+.rating label:nth-child(3) {
+  z-index: 3;
+}
+
+.rating label:nth-child(4) {
+  z-index: 2;
+}
+
+.rating label:nth-child(5) {
+  z-index: 1;
+}
+
+.rating label input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.rating label .icon {
+  float: left;
+  color: transparent;
+}
+
+.rating label:last-child .icon {
+  color: #EEE;
+}
+
+.rating:not(:hover) label input:checked ~ .icon,
+.rating:hover label:hover input ~ .icon {
+  color: #09f;
+}
+
+.rating label input:focus:not(:checked) ~.icon:last-child {
+  color: #EEE;
+  text-shadow: 0 0 5px #09f;
+}
+.rating label input:checked:after ~.icon:last-child {
+  color: #EEE;
+  text-shadow: 0 0 5px #09f;
+}
+.mcq{
+font-size:25px;
+}
+input[type=radio] {
+    border: 0px;
+}
+
+h1{
+font-weight: 800;
+    font-size: 26px;
+    font-family:sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    color: #000000;
+    line-height: 1.25;}
+.quest{
+line-height: 30px;
+font-size: 15px;
+margin-top:50px;
+}
+.done{
+font-size: 14px;
+    margin-top: 50px;
+    background-color: #37A000;
+    width: 100px;
+    border-radius: 10px;
+    padding: 10px 20px 10px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.done:hover{
+cursor:pointer;
+}
+textarea{
+width:80%;
+}
+
+#in, #block, #floor, #hno{
+margin:20px;
+height:2em;
+
+}
+body{
+margin:0px;
+padding:0px;
+}
+#desc{
+margin: 0px 0px 0px;
+    font-size: 15px;
+    margin-top: 30px;
+    text-align: left;
+    background-color: #ffffff;
+    
+    border-radius: 10px;}
+
+@media screen and (max-width: 600px) {
+#body{
+padding:0px 30px 10px !important;
+}
+}
+@media screen and (max-width: 800px) {
+#body{
+padding:0px 20px 10px !important;
+}
+textarea{
+width:90%;
+}
+}
+
+@media only screen and (max-width: 600px) {
+#body{
+padding:0px 30px 50px;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+#body{
+padding:0px 50px 50px;
+}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+#body{
+padding:0px 100px 50px;
+}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+#body{
+padding:0px 300px 50px;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+#body{
+padding:0px 100px 50px;
+}}
+

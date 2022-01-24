@@ -1,0 +1,27 @@
+<div class="btn open_sticker" id="<?php echo $wo['story']['id']; ?>">
+	<div title="sticker" onclick="$(this).parent().find('.box_sticker_menu').toggleClass('x-hidden');">
+		<i class="fa fa-smile-o"></i>
+	</div>					
+	<div class="box_sticker_menu x-hidden">
+	   <div class="sticker_head dbi">
+		   <span onclick="show_sticker_tab($(this), 'sticker_content');">
+			   <i class="fa fa-clock-o"></i>
+		   </span>
+		   <span onclick="show_sticker_tab($(this), 'sticker_suggest');">
+			   <i class="fa fa-search"></i>
+		   </span>
+	   </div>
+	   
+	   <div class="sticker_tab sticker_suggest x-hidden">
+		   <div class="sticker_suggest_input dbi">
+			   <input type="text" name="suggest_sticker" placeholder="Write for search a image">
+		   </div>	   
+		   <div class="sticker_suggest_content dbi">
+			   <img src="https://media3.giphy.com/media/liDeJpWpKwexa/giphy.webp" onclick="register_sticker($(this));">
+		   </div>
+	   </div>
+	   
+	   <div class="sticker_tab sticker_content dbi">
+	   </div>
+	</div>
+</div>	

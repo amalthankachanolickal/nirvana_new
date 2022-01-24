@@ -1,0 +1,147 @@
+:root {
+    --white: #fff;
+    --primary-green: rgb(16,119,23);
+    
+    --primary-green-light: rgb(238, 255, 239);
+    /* for border & bg color of bill elements */
+
+    --primary-grey: rgb(218, 218, 218);
+
+    --primary-grey-light: rgb(243, 243, 243);
+    /* for hover of bill element */
+
+
+    --primary-green-light-2: rgb(177, 255, 182);
+    /* for hover of bill element */
+
+
+    --border-radius: 8px;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.borderGreen {
+    border-color: var(--primary-green) !important;
+}
+
+.borderGrey {
+    border-color: var(--primary-grey) !important;
+}
+
+
+
+.heading{
+    margin-top: 90px;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--primary-grey);
+}
+
+.heading h1 {
+font-size: 1em;
+}
+
+
+.infoSection {
+    border-radius: var(--border-radius);
+    border: 1px solid var(--primary-grey);
+    overflow: hidden;
+}
+
+.infoSection .infoWrapper {
+    padding: 15px;
+}
+
+.infoWrapper .key {
+    font-weight: normal;
+    opacity: 0.8;
+}
+
+.infoWrapper .value {
+    /*font-weight: bold;*/
+    /*font-size: 1.2em;*/
+}
+
+.billContentSection .billContent {
+    height: 100%;
+}
+
+.billContentSection .billContentCol .billContent {
+    border-radius: var(--border-radius);
+    border: 1px solid var(--primary-grey);
+    overflow: hidden;
+}
+
+.billContentRow {
+    padding: 5px 10px;
+}
+
+.billContentSection .billContentRow:nth-child(even) {
+    background-color: var(--primary-grey-light);
+}
+
+.billContentSection .billContentRow:hover {
+    background-color: var(--primary-grey);
+}
+
+
+.billTotalContentSection .billContentRow:nth-child(even) {
+    background-color: var(--primary-green-light);
+}
+
+.billTotalContentSection .billContentRow:hover {
+    background-color: var(--primary-green-light-2);
+}
+
+
+
+/* =============================================================================================================================================================================== */
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+    .heading {
+        margin-top: 90px;
+    }
+    .heading h1 {
+        font-size: 20pt;
+     }
+
+     .infoSection .infoWrapper {
+        padding: 10px 30px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+
+/* Set width to make card deck cards 100% width */
+@media (max-width: 950px) {
+}

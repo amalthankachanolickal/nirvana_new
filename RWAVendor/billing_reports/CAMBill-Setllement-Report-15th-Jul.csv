@@ -1,0 +1,5 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Payment Reference #","Amount Paid","TDR Charged by us","Total Amount paid by the User","Mode of Payment used","Bank Name","TDR Charged by the PGWA","Account to which payment is settled","Amount to be settled","Total Amount Settled","Payment Status","Date Settled/ paid","Paid Short by Pay U"
+DW-0202,"Mita Brahma",11737,2020-07-13,1e5f4f37ea63ec2bf772,11737,0,11737,NB,KOTAK_NB,17.7,"Nirvana Residents Welfare Association",11719.3,,"Payment Completed",2020-07-15,-17.7
+BC-0088,"Ajay Wadhwa",12028,2020-07-13,45bde3fd64c27d983152,12028,0,12028,NB,ICICI,17.7,"Nirvana Residents Welfare Association",12010.3,,"Payment Completed",2020-07-15,-17.7
+AG-0123,"R Shyam Sundar ",17841,2020-07-13,b9ff120268e75d6febb5,17841,0,17841,NB,ICICI,17.7,"Nirvana Residents Welfare Association",17823.3,,"Payment Completed",2020-07-15,-17.7
+BC-0122,"Karuna Gupta ",12536,2020-07-13,dc3408c857c1076d3839,12536,0,12536,NB,KOTAK_NB,17.7,"Nirvana Residents Welfare Association",12518.3,54071.2,"Payment Completed",2020-07-15,-17.7

@@ -1,0 +1,57 @@
+<div class="post-container user-ad-container" id="<?php echo $wo['story']['id']; ?>">
+  <div class="post-advertisement">
+    <!-- <div class="sop-icon" data-toggle="tooltip" title="<?php echo $wo['lang']['sponsored'];?>">
+      <i class="fa fa-bullhorn"></i>
+    </div> -->
+    <div class="panel panel-white panel-shadow">
+      <div class="ads-heading">
+        <div class="<?php echo Wo_RightToLeft('pull-left');?> ads-image">
+          <a data-ajax="?link1=timeline&u=<?php echo $wo['story']['user_data']['username']?>" href="<?php echo $wo['story']['user_data']['url']?>">
+          <img src="<?php echo $wo['story']['user_data']['avatar']; ?>" class="responsive-img">
+          </a>
+        </div>
+        <div class="ads-meta">
+          <div class="title h5">
+            <a data-ajax="?link1=timeline&u=<?php echo $wo['story']['user_data']['username']?>" href="<?php echo $wo['story']['user_data']['url']?>">
+              <b><?php echo $wo['story']['name']; ?></b>
+            </a>
+            <h6>
+              <span class="time ajax-time" title="<?php echo date('c', $wo['story']['posted']); ?>">
+                <?php echo Wo_Time_Elapsed_String($wo['story']['posted']); ?>
+              </span>
+              <?php if (strlen($wo['story']['location']) > 3): ?>
+                <span class="time">
+                  <i class="fa fa-map-marker fa-fw"></i>
+                  <?php echo $wo['story']['location']; ?>
+                </span>
+              <?php endif;?>
+            </h6>
+          </div>
+        </div>
+        <div class="ads-headline">
+          <p>
+            <b style="margin-bottom: 10px; display: block;"><?php echo $wo['story']['headline']; ?></b>
+            <span class="read-ads-description">
+              <?php echo htmlspecialchars_decode($wo['story']['description']); ?>
+            </span>
+          </p>
+        </div>
+        <div class="ads-cover rads-<?php echo $wo['story']['bidding']; ?>" id="<?php echo $wo['story']['id']; ?>">
+          <a href="<?php echo $wo['story']['url']; ?>" class="text-dnone">
+              <img src="<?php echo $wo['story']['ad_media']; ?>" alt="picture" class="responsive-img">
+            <div class="text-shadow"></div>
+            <div class="ads-description">
+                <h5>
+                <?php echo $wo['story']['headline']; ?>
+                </h5>
+              <p style="color: #fff">            
+                <?php echo Wo_UrlDomain($wo['story']['url']); ?>        
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>

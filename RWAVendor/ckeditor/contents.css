@@ -1,0 +1,45 @@
+/*
+Copyright (c) 2003-2010, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+body
+{
+	/* Font */
+	font-family:'helv_lgt',' Arial' !important;
+	font-size: 15px;
+
+	/* Text color */
+	color: #555;
+
+	/* Remove the background color to make it transparent */
+	background-color: #fff;
+}
+
+@font-face{ font-family:'helv_lgt';
+src:url(fonts/HELVET20.eot);src:local(?),url(fonts/HELVET20.woff) format("woff"),url(fonts/HELVET20.ttf) format("truetype"),url(fonts/HELVET20.svg) format("svg");font-weight:400;font-style:normal}
+
+html
+{
+	/* #3658: [IE6] Editor document has horizontal scrollbar on long lines
+	To prevent this misbehavior, we show the scrollbar always */
+	_overflow-y: scroll;
+	/* #6341: The text cursor must be set on the editor area. */
+	cursor: text;
+	/* #6632: Avoid having "text" shape of cursor in IE7 scrollbars.*/
+	*cursor:auto;
+}
+
+img:-moz-broken
+{
+	-moz-force-broken-image-icon : 1;
+	width : 24px;
+	height : 24px;
+}
+img, input, textarea
+{
+	cursor: default;
+}
+.cke_show_borders p span{color:#555 !important;
+    font-size: 15px !important; font-family:'helv_lgt',' Arial' !important;}
+	

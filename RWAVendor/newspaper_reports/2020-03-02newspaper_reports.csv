@@ -1,0 +1,2 @@
+"Bill Number","Bill Month","Member Name","Block No","House Number",Floor,"Bill Amount","Amount Paid","Date Paid","Payment Gateway Status",Mode
+200229FEB000089,2020FEB,"Rajan Roy",BC,149,1,250,250.00,"2020-03-02 17:14:34",success,"Online- CC"

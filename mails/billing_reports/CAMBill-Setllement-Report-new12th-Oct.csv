@@ -1,0 +1,19 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Amount Paid","Amount to be settled","Amt Credited to the Ac","Payment Status","Date Settled/ paid","Pay Fm"
+BC-0003,"Sanjay Goel",24111.00,2020-10-10,24111.00,24093.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+BC-0055,"Vimla Jain (BC-0055)",14637.00,2020-10-10,14637.00,14619.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+BC-0072,"Vidya Srinivasan",12168.00,2020-10-10,12168.00,12150.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+BC-0122,"Karuna Gupta (BC-0122)",14293.00,2020-10-10,14293.00,14275.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+ES-0224,"Mrs. Veena Shah",11378.00,2020-10-10,11378.00,11360.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+ES-0303,"Nandini Ghosh (ES-0303)",18513.00,2020-10-10,18513.00,18495.30,104851.10,"Payment Completed",2020-10-12,"Pay U"
+,,,,104975,104851.10,,,,
+,,,,,,,,,
+BC-0003,"Sanjay Goel",24111.00,2020-10-10,24111.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+BC-0055,"Vimla Jain (BC-0055)",14637.00,2020-10-10,14637.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+BC-0072,"Vidya Srinivasan",12168.00,2020-10-10,12168.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+BC-0122,"Karuna Gupta (BC-0122)",14293.00,2020-10-10,14293.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+ES-0224,"Mrs. Veena Shah",11378.00,2020-10-10,11378.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+ES-0303,"Nandini Ghosh (ES-0303)",18513.00,2020-10-10,18513.00,17.7,123.9,"Payment Completed",2020-10-13,Shweta
+,,,,,,,,,
+,,,,,123.9,,,,
+,,,,,,,,,
+,,,,104975,104975,,,,

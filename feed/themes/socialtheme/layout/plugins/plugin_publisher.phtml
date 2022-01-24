@@ -1,0 +1,7 @@
+<?php
+if(!empty($wo['plugin_list']['publisher']) && $wo['plugin_list']['publisher']){
+	foreach($wo['plugin_list']['publisher'] as $plugins_publisher){
+		echo Wo_LoadPage($plugins_publisher);
+	}
+}
+?>

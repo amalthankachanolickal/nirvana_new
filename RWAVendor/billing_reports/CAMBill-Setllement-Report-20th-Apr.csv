@@ -1,0 +1,7 @@
+"House / blck/ floor No.",Name,"Total Bill Amount (including arrears etc)","Date of payment","Payment Reference #","Amount Paid","TDR Charged by us","Total Amount paid by the User","Mode of Payment used","Bank Name","TDR Charged by the PGWA","Account to which payment is settled","Amount to be settled","Total Amount Settled","Payment Status","Date Settled/ paid","Paid Short by Pay U"
+DW-0011,"K Murali",17886,2020-04-16,3d0ef8e68e70ff807da4,220.26,0.39,220.65,DC,SBIFSSPG,0.39,"Nirvana Residents Welfare Association",220.26,,"Payment Completed",2020-04-20,0
+DW-0240,"Sunil Kapoor",10696,2020-04-16,bf79257591184c04a278,10696,0,10696,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",10678.3,,"Payment Completed",2020-04-20,-17.7
+DW-0247,"Vivek Mahendru",10054.53,2020-04-16,d959feada819df7ce54f,10054.53,0,10054.5,NB,INDUSIND,17.7,"Nirvana Residents Welfare Association",10036.83,,"Payment Completed",2020-04-20,-17.7
+ES-0063,"Animesh Kumar",29220,2020-04-16,06eecf11b017effc7965,29220,0,29220,NB,ICICI,17.7,"Nirvana Residents Welfare Association",29202.3,,"Payment Completed",2020-04-20,-17.7
+ES-0112,"Sudesh Kumar Grover",36555,2020-04-17,7ee362ab1cfccc689107,18119,0,18119,NB,HDFCNB,17.7,"Nirvana Residents Welfare Association",18101.3,,"Payment Completed",2020-04-20,-17.7
+ES-0348,"Renny Thomas",38676,2020-04-16,504f7cb74bf29987ad67,38676,0,38676,NB,KOTAK_NB,17.7,"Nirvana Residents Welfare Association",38658.3,106897.29,"Payment Completed",2020-04-20,-17.7

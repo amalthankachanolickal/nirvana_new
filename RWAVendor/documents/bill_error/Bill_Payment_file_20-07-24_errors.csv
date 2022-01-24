@@ -1,0 +1,7 @@
+bill_num,unit_num,bill_start_date,amount_reversed,date_reversed,amount_received,date_received,mode,pay_ref,amount_received_bank,date_received_bank,source,payment_mode,error/status
+NRWAQ206782021,DW-0271,2020-06-26,0,0000-00-00,11481,"2020-07-14 00:00:00","Bank Receipt","BIL/INFT/002029474096/DW-271 [Q3_20]/  DEVINDER KUMAR",11481,"2020-07-14 00:00:00","NRWA Office",IMPS,"No error, Record updated"
+NRWAQ205492021,DW-0123,2020-06-26,0,0000-00-00,14235,"2020-07-14 00:00:00","Bank Receipt","CLG/ARORA CONSULTANCY/610339/IDB/07.07.2020",14235,"2020-07-14 00:00:00","NRWA Office",Cheque,"No error, Record updated"
+NRWAQ204892021,DW-0063,2020-06-26,0,0000-00-00,14664,"2020-07-16 00:00:00","Bank Receipt","NEFT-N198201188889873-MASS IT CHANNEL PVT LTD NODA L-DC 63 CAM O M SERVIC-50200027460230-HDFC0000240071600115803//184301000717",14664,"2020-07-16 00:00:00","NRWA Office",NEFT,"No error, Record updated"
+NRWAQ201052021,AG-0110,2020-06-26,0,0000-00-00,17250,"2020-07-18 00:00:00","Bank Receipt","CLG/CULT CLOTHING CO/772816/CIT/13.07.2020",17250,"2020-07-18 00:00:00","NRWA Office",Cheque,"No error, Record updated"
+
+"Total Rows:",4,"Error Rows:",0,"Total Uploaded Amount",57630

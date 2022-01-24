@@ -1,0 +1,3 @@
+"Bill Number","Bill Month","Member Name","Block No","House Number",Floor,"Bill Amount","Amount Paid","Date Paid","Payment Gateway Status",Mode
+200229FEB000084,2020FEB,"Sanjay Menon",BC,83,1,380,380.00,"2020-03-04 17:19:51",success,"Online- CC"
+200229FEB000077,2020FEB,"Rohit Puri",AG,9,1,190,190.00,"2020-03-04 08:31:51",success,"Online- CC"

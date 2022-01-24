@@ -1,0 +1,6 @@
+bill_num,unit_num,bill_start_date,amount_reversed,date_reversed,amount_received,date_received,mode,pay_ref,amount_received_bank,date_received_bank,source,payment_mode,error/status
+NRWAQ222012453,CC-0108FoF,2021-04-06,0,0000-00-00,9584,"2021-04-08 00:00:00","Bank Receipt","NEFT-N098211469030013-SATISH KUMAR ADLAKHA-108 CED AR CREST 4-03281000054032-HDFC0000001",9584,"2021-04-08 00:00:00","NRWA Office",NEFT,"No error, Record updated"
+NRWAQ222012938,DW-0324,2021-04-06,0,0000-00-00,11840,"2021-04-12 00:00:00","Bank Receipt","NEFT-N101211471505161-GEORGE THOMAS FANTHOME-DW 32",11840,"2021-04-12 00:00:00","NRWA Office",NEFT,"No error, Record updated"
+NRWAQ222013115,ES-0160FoF,2021-04-06,0,0000-00-00,10266,"2021-04-22 00:00:00","Bank Receipt","MMT/IMPS/111215363187/ES0160/VIVEK MANC/HDFC Bank",10266,"2021-04-22 00:00:00","NRWA Office",IMPS,"No error, Record updated"
+
+"Total Rows:",3,"Error Rows:",0,"Total Uploaded Amount",31690

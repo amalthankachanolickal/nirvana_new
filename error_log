@@ -1,0 +1,10 @@
+[04-May-2021 14:09:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/shinzekr/vaccine.shinz.info/config.php on line 9
+[14-Aug-2021 05:00:48 UTC] PHP Warning:  move_uploaded_file(upload/baba.jpg): failed to open stream: No such file or directory in /home/allrwas1/public_html/nirvana.allrwas.com/upload_file.php on line 12
+[14-Aug-2021 05:00:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php88maJO' to 'upload/baba.jpg' in /home/allrwas1/public_html/nirvana.allrwas.com/upload_file.php on line 12
+[14-Aug-2021 05:01:02 UTC] PHP Warning:  move_uploaded_file(upload/dadi.PNG): failed to open stream: No such file or directory in /home/allrwas1/public_html/nirvana.allrwas.com/upload_file.php on line 12
+[14-Aug-2021 05:01:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpC27Eto' to 'upload/dadi.PNG' in /home/allrwas1/public_html/nirvana.allrwas.com/upload_file.php on line 12
+[10-Nov-2021 11:16:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/allrwas1/public_html/nirvana.allrwas.com/index.php on line 574
+[10-Nov-2021 11:16:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/allrwas1/public_html/nirvana.allrwas.com/index.php on line 574
+[10-Nov-2021 11:16:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/allrwas1/public_html/nirvana.allrwas.com/index.php on line 574
+[10-Nov-2021 11:16:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/allrwas1/public_html/nirvana.allrwas.com/index.php on line 574
+[10-Nov-2021 11:16:31 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/allrwas1/public_html/nirvana.allrwas.com/index.php on line 574
